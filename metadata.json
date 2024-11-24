@@ -1,6 +1,13 @@
 {
   "name": "UwU Token",
   "symbol": "UwU",
-  "description": "Este es un token creado como parte de un tutorial en Solana.",
-  "image": "https://raw.githubusercontent.com/remembersalpepper/img/main/0.png"
+  "uri": "https://raw.githubusercontent.com/remembersalpepper/img/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "5tRtEpSuMvtfvbBqpXtntfE72vCygLR9rsE8wRoH8Gb3",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
