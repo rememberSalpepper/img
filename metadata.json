@@ -1,13 +1,6 @@
 {
-  "name": "UwU Token",
-  "symbol": "UwU",
-  "uri": "https://raw.githubusercontent.com/remembersalpepper/img/main/0.png",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "5tRtEpSuMvtfvbBqpXtntfE72vCygLR9rsE8wRoH8Gb3",
-      "verified": true,
-      "share": 100
-    }
-  ]
+  "name": "FuncionaXFAToyXato",
+  "symbol": "XFAAAA",
+  "description": "XFAAAAAAAAAAAAAAAAA",
+  "image": "https://raw.githubusercontent.com/remembersalpepper/img/main/a.jpg"
 }
